@@ -2,407 +2,407 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://partigabor.github.io/whatever/authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/"
+                href="https://partigabor.github.io/whatever/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://partigabor.github.io/whatever/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/authors/hugo-authors/</loc>
+    <loc>https://partigabor.github.io/whatever/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/autores/autores-de-hugo/"
+                href="https://partigabor.github.io/whatever/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/hugo-authors/"
+                href="https://partigabor.github.io/whatever/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://partigabor.github.io/whatever/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://partigabor.github.io/whatever/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://partigabor.github.io/whatever/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/hugo/</loc>
+    <loc>https://partigabor.github.io/whatever/series/hugo/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/mermaid-support/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/mermaid-support/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/"
-                />
-  </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://partigabor.github.io/whatever/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://partigabor.github.io/whatever/posts/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/theme/</loc>
+    <loc>https://partigabor.github.io/whatever/series/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://partigabor.github.io/whatever/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://partigabor.github.io/whatever/series/"
+                />
+  </url><url>
+    <loc>https://partigabor.github.io/whatever/series/theme/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://partigabor.github.io/whatever/categories/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://partigabor.github.io/whatever/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://partigabor.github.io/whatever/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/css/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/css/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/css/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/css/"
+                href="https://partigabor.github.io/whatever/tags/css/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/html/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/html/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/html/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/html/"
+                href="https://partigabor.github.io/whatever/tags/html/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/html-and-css-only-tabs/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/html-and-css-only-tabs/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/markdown/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/markdown/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/markdown/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/markdown/"
+                href="https://partigabor.github.io/whatever/tags/markdown/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/syntax/</loc>
+    <loc>https://partigabor.github.io/whatever/categories/syntax/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categoria/sintaxe/"
+                href="https://partigabor.github.io/whatever/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/syntax/"
+                href="https://partigabor.github.io/whatever/categories/syntax/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://partigabor.github.io/whatever/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/themes/</loc>
+    <loc>https://partigabor.github.io/whatever/categories/themes/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categoria/temas/"
+                href="https://partigabor.github.io/whatever/pt-br/categoria/temas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/themes/"
+                href="https://partigabor.github.io/whatever/categories/themes/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/themes-guide/</loc>
+    <loc>https://partigabor.github.io/whatever/series/themes-guide/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/markdown-syntax/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/markdown-syntax/"
+                href="https://partigabor.github.io/whatever/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/markdown-syntax/"
+                href="https://partigabor.github.io/whatever/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/privacy/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/privacy/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/privacy/"
+                href="https://partigabor.github.io/whatever/tags/privacy/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/rich-content/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/rich-content/"
+                href="https://partigabor.github.io/whatever/pt-br/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/rich-content/"
+                href="https://partigabor.github.io/whatever/posts/rich-content/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/shortcodes/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/shortcodes/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/shortcodes/"
+                href="https://partigabor.github.io/whatever/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/more-rich-content/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/more-rich-content/"
+                href="https://partigabor.github.io/whatever/pt-br/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/more-rich-content/"
+                href="https://partigabor.github.io/whatever/posts/more-rich-content/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/placeholder-text/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/placeholder-text/"
+                href="https://partigabor.github.io/whatever/pt-br/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/placeholder-text/"
+                href="https://partigabor.github.io/whatever/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/text/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/text/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/text/"
+                href="https://partigabor.github.io/whatever/tags/text/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/math-typesetting/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/math-typesetting/"
+                href="https://partigabor.github.io/whatever/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/math-typesetting/"
+                href="https://partigabor.github.io/whatever/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/emoji/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/emoji/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/emoji/"
+                href="https://partigabor.github.io/whatever/tags/emoji/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/emoji-support/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/emoji-support/"
+                href="https://partigabor.github.io/whatever/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/emoji-support/"
+                href="https://partigabor.github.io/whatever/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/development/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/development/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/development/"
+                href="https://partigabor.github.io/whatever/tags/development/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/development/</loc>
+    <loc>https://partigabor.github.io/whatever/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/development/"
+                href="https://partigabor.github.io/whatever/pt-br/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/development/"
+                href="https://partigabor.github.io/whatever/categories/development/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
+    <loc>https://partigabor.github.io/whatever/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/hugo-coder-wiki/"
+                href="https://partigabor.github.io/whatever/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/hugo-coder-wiki/"
+                href="https://partigabor.github.io/whatever/posts/hugo-coder-wiki/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/hugo/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="https://partigabor.github.io/whatever/tags/hugo/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/themes/</loc>
+    <loc>https://partigabor.github.io/whatever/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/themes/"
+                href="https://partigabor.github.io/whatever/pt-br/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/themes/"
+                href="https://partigabor.github.io/whatever/tags/themes/"
                 />
   </url><url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://partigabor.github.io/whatever/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="https://partigabor.github.io/whatever/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://partigabor.github.io/whatever/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>https://partigabor.github.io/whatever/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="https://partigabor.github.io/whatever/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://partigabor.github.io/whatever/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>https://partigabor.github.io/whatever/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
+                href="https://partigabor.github.io/whatever/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="https://partigabor.github.io/whatever/projects/"
                 />
   </url>
 </urlset>
